@@ -1,0 +1,69 @@
+[
+   {
+      "id":1,
+     "name":"Learn Complete python",
+     "price":10000,
+     "description":"Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? Then this course is for you! This course will teach you how to program in Python, a powerful and popular programming language. You will learn how to use Python to create games, automate your browser, visualize data, and much more. You will also learn how to use Python to access the web, read and write files, and much more. This course is designed for beginners, so no prior programming experience is required. You will learn how to program in Python, a powerful and popular programming language. You will learn how to use Python to create games, automate your browser, visualize data, and much more. You will also learn how to use Python to access the web, read and write files, and much more. This course is designed for beginners, so no prior programming experience is required.",
+     "image":"https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png",
+     "details":["The Basic(Data Types)","Conditions And Loops","Functions!","File Inpt & Output","Crawing the Web" ],
+     "learn":["Create their own Python Programs", "Become an experienced Python Programmer"," Parse the Web and Create theirown Games"]
+  }
+  ,
+  {
+   "id":2,
+  "name":" Learn Ruby Rails Course",
+  "price":9000,
+  "description":" Now featuring Rails 6 - the latest version of the Ruby on Rails framework. Ruby on Rails Web Developer average salaries by city as of January 2020 (according to Glassdoor):New York - $95,000/yr, Boston - $97,000/yr, San Francisco - $100,719/yrNeed more reasons on why Ruby on Rails?Since its introduction, Ruby on Rails has rapidly become one of the most popular and powerful web application development tools for both startups and mature software companies. Some of the top sites in the world started with Ruby on Rails such as Basecamp, Twitter, Shopify, Github, LivingSocial, Groupon, Hulu, Airbnb, Yellow Pages and many more! Even after immense scaling, most of them continue to use Rails! Ruby on Rails developers routinely command the highest salaries in the tech industry!",
+
+  "image":"https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png",
+  "details":["Introduction to Rubby On Rails","CRUD Opeartion On Rubby Rails","Styling For Your Rails Application","Stock Tracker Social Media App","Real Time MessageMe Chat APP bulding"],
+  "learn":["Learn how to rapidly prototype ideas and turn them into presentable apps", " Become a professional Ruby on Rails developer" ,"Apply for jobs at software companies as Ruby on Rails developer","Become a professional web application developer"," Design and build virtually any web application you can imagine"]
+}
+,
+{
+ "id":3,
+"name":"Learn Kotlin ",
+"price":8000,
+"description":" Kotlin is a modern programming language that makes developers happier. It is concise, safe, interoperable and tool-friendly. Kotlin is a statically typed programming language that runs on the Java Virtual Machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. Kotlin mainly targets the JVM, but also compiles to JavaScript or native code (via LLVM) for native binaries or WebAssembly. Kotlin is a statically typed programming language that runs on the Java Virtual Machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise. Kotlin mainly targets the JVM, but also compiles to JavaScript or native code (via LLVM) for native binaries or WebAssembly.",
+"image":"https://www.clipartmax.com/png/middle/238-2381243_safeness-kotlin-android-logo.png",
+"details":["Kotlin Fundamentals","More Fundamentals OF kotlin","Age In Minutes App","Learn XML and how to create a Ul"," Quiz App"],
+"learn":["Learn how to rapidly prototype ideas and turn them into presentable apps", " Become a professional Kotlin developer" ,"Apply for jobs at software companies as Kotlin developer","Become a professional web application developer"," Design and build virtually any web application you can imagine"]
+}
+
+,
+{
+ "id":4,
+"name":"Learn TypeScript",
+"price":7000,
+"description":" Join this bestselling, completely updated course to learn TypeScript from the ground up, in great depth!, Learn what TypeScript is, why it really is a powerful addition to JavaScript, what its features are and how to use it! Learn why TypeScript is amazing, how it improves your JavaScript code and how it helps you avoid nasty bugs and errors",
+"image":"https://www.logo.wine/a/logo/TypeScript/TypeScript-Logo.wine.svg",
+  "details":["Primative Types","Arrays and Tuples","Functions","Classes","Target Compiler Option"],
+  "learn":["Use TypeScript and its Features like Types," ,"ES6 Support, Classes, Modules," ," Understand what TypeScript really is about and how it works",
+  "Why TypeScript offers a real advantage over vanilla JavaScript",
+"  Learn TypeScript both in theory as well as applied to real use-cases and projects",
+  "Learn how to combine TypeScript with ReactJS or NodeJS / Express"]
+}  ,
+
+{
+ "id":5,
+"name":" Learn Complete C++ ",
+"price":6000,
+"description":" Learn C++ from scratch and become a professional C++ developer. This course is designed for beginners and no prior programming experience is required. This course will teach you how to program in C++, a powerful and popular programming language. You will learn how to use C++ to create games, automate your browser, visualize data, and much more. You will also learn how to use C++ to access the web, read and write files, and much more. This course is designed for beginners, so no prior programming experience is required. You will learn how to program in C++, a powerful and popular programming language. You will learn how to use C++ to create games, automate your browser, visualize data, and much more. You will also learn how to use C++ to access the web, read and write files, and much more. This course is designed for beginners, so no prior programming experience is required.",
+"image":"https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png",
+"details":["What can C++ used for","What is visual C++","What career use  C++"," C++ Fundamentals","What is the best IDE for C++"],
+  "learn":["Learn Basic concepts of Programming C++", "OOPs Exception Handling", "STL"," Features of C++ 11",
+  "Learn Object-Oriented Programming Design Concept in C++" ,"Perfectly with ExamplesLearn How to Develop an Application "]
+}  ,
+{
+ "id":6,
+"name":"Java For Beginners",
+"price":5000,
+"description":" Learn Java from scratch and become a professional Java developer. This course is designed for beginners and no prior programming experience is required. This course will teach you how to program in Java, a powerful and popular programming language. You will learn how to use Java to create games, automate your browser, visualize data, and much more. You will also learn how to use Java to access the web, read and write files, and much more. This course is designed for beginners, so no prior programming experience is required. You will learn how to program in Java, a powerful and popular programming language. You will learn how to use Java to create games, automate your browser, visualize data, and much more. You will also learn how to use Java to access the web, read and write files, and much more. This course is designed for beginners, so no prior programming experience is required.",
+"image":"https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png",
+"details":["indtroduction to java", "java method wtih multiplication Table","Github Book","Introduction to Java Object Oriented"],
+ "learn":["Foundations of the Java programming language",
+ "Object-oriented programming",
+" Classes & Objects",
+" Functional programming with Lambdas & Streams API"]
+}
+]
